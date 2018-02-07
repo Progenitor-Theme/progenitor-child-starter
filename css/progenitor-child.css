@@ -1,0 +1,17 @@
+/**!
+ * b4st Child CSS
+ */
+
+/* Example */
+
+.bg-yellow {
+  background-color: #fff000;
+}
+
+h2::before {
+  display: none;
+}
+.wac::before {
+	font-family: "Font Awesome 5 Solid";
+  content: "\f007";
+}
