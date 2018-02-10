@@ -63,8 +63,8 @@ progenitor_build_navbar_menu_left()
 progenitor_build_navbar_menu_right()
 progenitor_build_navbar_search()
 
-progenitor_build_mainbody_top()
-progenitor_build_mainbody_bottom()
+progenitor_build_main_top()
+progenitor_build_main_bottom()
 
 progenitor_build_content_404()
 progenitor_build_content_404_message()

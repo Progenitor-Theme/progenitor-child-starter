@@ -44,7 +44,9 @@ progenitor_navbar_search_btn_class();
 progenitor_sidebar_1_class();
 progenitor_sidebar_2_class();
 
-progenitor_mainbody_wrapper_class();
+progenitor_main_outer_class();
+progenitor_main_container_class();
+progenitor_main_inner_class();
 
 progenitor_content_class();
 

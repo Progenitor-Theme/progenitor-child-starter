@@ -1,22 +1,10 @@
 /*
-Theme Name:   Progenitor-Child
-Theme URI:    https://github.com/Progenitor-Theme/Progenitor-Child
-Text Domain:  progenitor-child
+Theme Name:   Progenitor-Child-Starter
+Theme URI:    https://github.com/Progenitor-Theme/Progenitor-Child-Starter
+Text Domain:  progenitor-child-starter
 Description:  Child Starter for Progenitor Theme
 Template:     progenitor-master
-Version:      0.3
+Version:      0.3.2
 License:      MIT
 License URI:  https://opensource.org/licenses/MIT
 */
-
-/**!
- * NOTES:
- * ======
- * (1.) This file is not enqueued. Do not put your CSS in here -- put it in
- * theme/css/b4st.css
- *
- * (2.) GitHub adds the `-master` prefix to downloaded repositories (folders),
- * therefore this child theme is set to depend upon the `progenitor-master`
- * theme folder. If you rename the Progenitor Theme's root folder, then you
- * need to rename the `Template:` link on line 6 above.
- */
