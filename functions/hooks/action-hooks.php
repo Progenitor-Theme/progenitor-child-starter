@@ -53,8 +53,8 @@ progenitor_action_navbar_after()
 progenitor_action_sidebar_1_top()
 progenitor_action_sidebar_1_bottom()
 
-progenitor_action_mainbody_top()
-progenitor_action_mainbody_bottom()
+progenitor_action_main_top()
+progenitor_action_main_bottom()
 
 progenitor_action_content_top()
 progenitor_action_content_bottom()
