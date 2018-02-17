@@ -13,11 +13,11 @@
 
 // Example
 
-function progenitor_navbar_class() {
+function progenitor_header_nav_class() {
   ?>class="navbar navbar-expand-md navbar-light bg-yellow"<?php
 }
 
-function progenitor_navbar_search_btn_class() {
+function progenitor_header_nav_search_button_class() {
   ?>class="btn btn-dark my-2 my-sm-0"<?php
 }
 

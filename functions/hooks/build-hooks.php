@@ -14,12 +14,12 @@
 
 // Example
 // =======
-// Un-comment this empty funciton below, and your navbar will be gone!
+// Un-comment this empty funciton below, and your header_nav will be gone!
 // Inspect your code -- you will not find it in the served HTML.
 
 /*
-function progenitor_build_navbar() {
-  // The existence of empty function removes the navbar.
+function progenitor_build_header_nav() {
+  // The existence of empty function removes the header_nav.
 }
 */
 
@@ -58,10 +58,10 @@ progenitor_build_body_bottom()
 
 progenitor_build_header()
 
-progenitor_build_navbar()
-progenitor_build_navbar_menu_left()
-progenitor_build_navbar_menu_right()
-progenitor_build_navbar_search()
+progenitor_build_header_nav()
+progenitor_build_header_nav_menu_left()
+progenitor_build_header_nav_menu_right()
+progenitor_build_header_nav_search()
 
 progenitor_build_main_top()
 progenitor_build_main_bottom()

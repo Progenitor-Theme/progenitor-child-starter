@@ -1,15 +1,20 @@
 <?php
 /**!
- * Progenitor Child Enqueues
- * =========================
- * All the functions are in the PHP files in the `functions/` folder.
+ * Progenitor Child (Starter) Enqueues
+ * ===================================
  */
-
 
 function progenitor_child_enqueues() {
 
-  wp_enqueue_style( 'progenitor_child',
-    get_stylesheet_directory_uri() . '/css/progenitor-child.css', false, null);
+  // PROGENITOR CHILD CSS and JS
+  // ===========================
+
+  wp_register_style('progenitor-child-css', get_stylesheet_directory_uri() . '/theme/css/progenitor-child.css', false, null);
+  wp_enqueue_style('progenitor-child-css');
+
+
+  wp_register_script('progenitor-child-js', get_stylesheet_directory_uri() . '/theme/js/progenitor-child.js', false, null, true);
+  wp_enqueue_script('progenitor-child-js');
 
   // Enqueue your own styles in here
 
