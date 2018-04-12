@@ -1,6 +1,6 @@
 # Progenitor-Child-Starter
 
-*Version 0.4*
+*Version 0.5*
 
 [https://github.com/Progenitor-Theme/Progenitor-Child-Starter](https://github.com/Progenitor-Theme/Progenitor-Child-Starter)
 
